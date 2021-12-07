@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Ajeya-web/static/css/main.233ef440.chunk.css",
+    "main.js": "/Ajeya-web/static/js/main.da30b90d.chunk.js",
+    "main.js.map": "/Ajeya-web/static/js/main.da30b90d.chunk.js.map",
+    "runtime-main.js": "/Ajeya-web/static/js/runtime-main.ca1038a8.js",
+    "runtime-main.js.map": "/Ajeya-web/static/js/runtime-main.ca1038a8.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Ajeya-web/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c4a70be1.chunk.js": "/Ajeya-web/static/js/2.c4a70be1.chunk.js",
+    "static/js/2.c4a70be1.chunk.js.map": "/Ajeya-web/static/js/2.c4a70be1.chunk.js.map",
+    "static/js/3.c22ecd37.chunk.js": "/Ajeya-web/static/js/3.c22ecd37.chunk.js",
+    "static/js/3.c22ecd37.chunk.js.map": "/Ajeya-web/static/js/3.c22ecd37.chunk.js.map",
+    "index.html": "/Ajeya-web/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Ajeya-web/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.233ef440.chunk.css.map": "/Ajeya-web/static/css/main.233ef440.chunk.css.map",
+    "static/js/2.c4a70be1.chunk.js.LICENSE.txt": "/Ajeya-web/static/js/2.c4a70be1.chunk.js.LICENSE.txt",
+    "static/media/Cyber Security.c9b5b066.png": "/Ajeya-web/static/media/Cyber Security.c9b5b066.png",
+    "static/media/Digital marketing.761082ee.png": "/Ajeya-web/static/media/Digital marketing.761082ee.png",
+    "static/media/Infrastructure.253ffe15.png": "/Ajeya-web/static/media/Infrastructure.253ffe15.png",
+    "static/media/UX.f6e31d2b.png": "/Ajeya-web/static/media/UX.f6e31d2b.png",
+    "static/media/Web app dev.39e5175e.png": "/Ajeya-web/static/media/Web app dev.39e5175e.png",
+    "static/media/about-us-img.cfbd256e.png": "/Ajeya-web/static/media/about-us-img.cfbd256e.png",
+    "static/media/jumbo-img.370244c7.png": "/Ajeya-web/static/media/jumbo-img.370244c7.png",
+    "static/media/logo.1800e667.png": "/Ajeya-web/static/media/logo.1800e667.png",
+    "static/media/logo.43d1d393.png": "/Ajeya-web/static/media/logo.43d1d393.png",
+    "static/media/qms-isms-logo.fa11445b.png": "/Ajeya-web/static/media/qms-isms-logo.fa11445b.png",
+    "static/media/services.68db45b5.png": "/Ajeya-web/static/media/services.68db45b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca1038a8.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c4a70be1.chunk.js",
+    "static/css/main.233ef440.chunk.css",
+    "static/js/main.da30b90d.chunk.js"
+  ]
+}
